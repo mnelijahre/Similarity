@@ -9,8 +9,8 @@ class Alignment:
         self.tab = Table()
 
     def initialize(self, a, b):
-        print(a)
-        print(b)
+        #print(a)
+        #print(b)
         self.x = a
         self.y = b
 
